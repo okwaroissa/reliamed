@@ -32,7 +32,7 @@ const Contact = () => {
                     </div>
                     <div className='form-group row'>
                         <div className='col-md-12 no-padding-margin'>
-                            <button className='btn contact-submit' type='submit'>Submit</button>
+                            <button className='btn contact-submit' type='submit' onClick={()=>submitform}>Submit</button>
                         </div>
                     </div>
                 </form>
