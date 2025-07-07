@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/reliamed/static/css/main.6eece0c0.css",
-    "main.js": "/reliamed/static/js/main.2c45dcac.js",
-    "static/media/reliamed_landing.png": "/reliamed/static/media/reliamed_landing.f51c5bf79b1a390644bd.png",
-    "static/media/disabled_child_handing.png": "/reliamed/static/media/disabled_child_handing.b9fe5ad2d72ab6b6f190.png",
-    "static/media/monitoring.png": "/reliamed/static/media/monitoring.655e4420795ea68d2070.png",
-    "static/media/home_pickup.png": "/reliamed/static/media/home_pickup.d1c55646805de4bc9a29.png",
-    "static/media/parental_trust.png": "/reliamed/static/media/parental_trust.572d13e8f0f489c2a24d.png",
-    "static/media/inspection_image.png": "/reliamed/static/media/inspection_image.f18e9e230919e247a41b.png",
-    "static/media/school_pickup.png": "/reliamed/static/media/school_pickup.be3774c4b49d63f5335f.png",
-    "static/media/reliamed_logo.png": "/reliamed/static/media/reliamed_logo.d5a7b290f4854ef165d7.png",
-    "index.html": "/reliamed/index.html",
-    "main.6eece0c0.css.map": "/reliamed/static/css/main.6eece0c0.css.map",
-    "main.2c45dcac.js.map": "/reliamed/static/js/main.2c45dcac.js.map"
+    "main.css": "/static/css/main.6eece0c0.css",
+    "main.js": "/static/js/main.5759d889.js",
+    "static/media/reliamed_landing.png": "/static/media/reliamed_landing.f51c5bf79b1a390644bd.png",
+    "static/media/disabled_child_handing.png": "/static/media/disabled_child_handing.b9fe5ad2d72ab6b6f190.png",
+    "static/media/monitoring.png": "/static/media/monitoring.655e4420795ea68d2070.png",
+    "static/media/home_pickup.png": "/static/media/home_pickup.d1c55646805de4bc9a29.png",
+    "static/media/parental_trust.png": "/static/media/parental_trust.572d13e8f0f489c2a24d.png",
+    "static/media/inspection_image.png": "/static/media/inspection_image.f18e9e230919e247a41b.png",
+    "static/media/school_pickup.png": "/static/media/school_pickup.be3774c4b49d63f5335f.png",
+    "static/media/reliamed_logo.png": "/static/media/reliamed_logo.d5a7b290f4854ef165d7.png",
+    "index.html": "/index.html",
+    "main.6eece0c0.css.map": "/static/css/main.6eece0c0.css.map",
+    "main.5759d889.js.map": "/static/js/main.5759d889.js.map"
   },
   "entrypoints": [
     "static/css/main.6eece0c0.css",
-    "static/js/main.2c45dcac.js"
+    "static/js/main.5759d889.js"
   ]
 }
