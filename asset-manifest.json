@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3f183308.css",
-    "main.js": "/static/js/main.184998d3.js",
+    "main.js": "/static/js/main.dbf3fb95.js",
     "static/media/reliamed_landing.png": "/static/media/reliamed_landing.f51c5bf79b1a390644bd.png",
     "static/media/disabled_child_handing.png": "/static/media/disabled_child_handing.b9fe5ad2d72ab6b6f190.png",
     "static/media/monitoring.png": "/static/media/monitoring.655e4420795ea68d2070.png",
@@ -12,10 +12,10 @@
     "static/media/reliamed_logo.png": "/static/media/reliamed_logo.d5a7b290f4854ef165d7.png",
     "index.html": "/index.html",
     "main.3f183308.css.map": "/static/css/main.3f183308.css.map",
-    "main.184998d3.js.map": "/static/js/main.184998d3.js.map"
+    "main.dbf3fb95.js.map": "/static/js/main.dbf3fb95.js.map"
   },
   "entrypoints": [
     "static/css/main.3f183308.css",
-    "static/js/main.184998d3.js"
+    "static/js/main.dbf3fb95.js"
   ]
 }
