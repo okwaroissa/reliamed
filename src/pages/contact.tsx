@@ -1,10 +1,13 @@
 import React from 'react'
 const Contact = () => {
+    const submitform = (e:React.MouseEvent<HTMLButtonElement>) => {
+        e.preventDefault()
+    }
     return (
         <div className='reliamed-page'>
             <div className='container contact-us-form'>
                 <p className='contact-instructions'>Feel free to send us a message. Just submit the form below, and we will get back at the earliest opportunity.</p>
-                <form action="#" className='form-horizontal'>
+                <form action="#" className='form-horizontal' onSubmit={()=>submitform}>
                     <div className='form-data-fields'>
                         <div className='form-group row'>
                             <div className='col-md-12 no-padding-margin'>
@@ -29,7 +32,7 @@ const Contact = () => {
                     </div>
                     <div className='form-group row'>
                         <div className='col-md-12 no-padding-margin'>
-                            <button className='btn contact-submit'>Submit</button>
+                            <button className='btn contact-submit' type='submit'>Submit</button>
                         </div>
                     </div>
                 </form>

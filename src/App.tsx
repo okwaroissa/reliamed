@@ -63,12 +63,6 @@ function App() {
       </div>
 
       <div className='reliamed-footer row'>
-        {/* <div className='col-md'>
-            &copy; Reliamed Transportation, Inc
-        </div>
-        <div className='col-md'>
-            13 Cambridge Street Worcester, MA 01603
-        </div> */}
         <div className='col-md footer-content-address'>
           &copy; Reliamed Transportation, Inc<br/>
           13 Cambridge Street Worcester, MA 01603<br/>

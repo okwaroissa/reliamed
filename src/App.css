@@ -73,10 +73,14 @@ navbar-toggler-icon{
   align-items: center;
   justify-content: space-between;
   width: 100%;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 .reliamed-site-navigation{
   flex-grow: 1;
   justify-content: end;
+  background: white;
+  z-index: 1;
 }
 
 .reliamed-page{
